@@ -1,4 +1,5 @@
 id	abstract_id	offset_start	offset_finish	type
+0	1711760	23	35	DiseaseOrPhenotypicFeature
 0	1711760	58	66	DiseaseOrPhenotypicFeature
 0	1711760	78	89	DiseaseOrPhenotypicFeature
 0	1711760	113	125	DiseaseOrPhenotypicFeature
@@ -19,10 +20,12 @@ id	abstract_id	offset_start	offset_finish	type
 0	1711760	1427	1439	DiseaseOrPhenotypicFeature
 0	1711760	1498	1506	DiseaseOrPhenotypicFeature
 0	1711760	1560	1568	DiseaseOrPhenotypicFeature
+1	6086495	20	45	DiseaseOrPhenotypicFeature
 1	6086495	146	171	DiseaseOrPhenotypicFeature
 1	6086495	173	176	DiseaseOrPhenotypicFeature
 1	6086495	329	332	DiseaseOrPhenotypicFeature
 1	6086495	394	397	GeneOrGeneProduct
+2	7018927	67	78	ChemicalEntity
 2	7018927	87	105	DiseaseOrPhenotypicFeature
 2	7018927	145	156	ChemicalEntity
 2	7018927	166	175	GeneOrGeneProduct
@@ -34,15 +37,18 @@ id	abstract_id	offset_start	offset_finish	type
 2	7018927	458	469	ChemicalEntity
 2	7018927	493	511	DiseaseOrPhenotypicFeature
 2	7018927	572	574	GeneOrGeneProduct
+3	7811247	191	198	OrganismTaxon
 3	7811247	494	501	OrganismTaxon
 3	7811247	644	655	ChemicalEntity
 3	7811247	749	757	OrganismTaxon
+4	8944024	39	44	GeneOrGeneProduct
 4	8944024	64	79	ChemicalEntity
 4	8944024	241	248	OrganismTaxon
 4	8944024	366	382	ChemicalEntity
 4	8944024	520	545	DiseaseOrPhenotypicFeature
 4	8944024	551	556	GeneOrGeneProduct
 4	8944024	718	725	OrganismTaxon
+5	14510914	11	25	DiseaseOrPhenotypicFeature
 5	14510914	55	61	ChemicalEntity
 5	14510914	307	332	DiseaseOrPhenotypicFeature
 5	14510914	471	477	ChemicalEntity
@@ -58,6 +64,7 @@ id	abstract_id	offset_start	offset_finish	type
 5	14510914	1606	1611	CellLine
 5	14510914	1783	1790	OrganismTaxon
 5	14510914	1856	1881	DiseaseOrPhenotypicFeature
+6	15041272	114	128	DiseaseOrPhenotypicFeature
 6	15041272	237	242	OrganismTaxon
 6	15041272	446	454	DiseaseOrPhenotypicFeature
 6	15041272	488	509	GeneOrGeneProduct
@@ -68,6 +75,7 @@ id	abstract_id	offset_start	offset_finish	type
 6	15041272	1268	1280	GeneOrGeneProduct
 6	15041272	1396	1399	GeneOrGeneProduct
 6	15041272	1420	1436	DiseaseOrPhenotypicFeature
+7	15096016	107	126	DiseaseOrPhenotypicFeature
 7	15096016	128	130	DiseaseOrPhenotypicFeature
 7	15096016	271	273	DiseaseOrPhenotypicFeature
 7	15096016	666	668	DiseaseOrPhenotypicFeature
@@ -77,6 +85,7 @@ id	abstract_id	offset_start	offset_finish	type
 7	15096016	990	1000	DiseaseOrPhenotypicFeature
 7	15096016	1129	1136	OrganismTaxon
 7	15096016	1215	1223	OrganismTaxon
+8	15099351	74	94	DiseaseOrPhenotypicFeature
 8	15099351	187	207	DiseaseOrPhenotypicFeature
 8	15099351	269	280	ChemicalEntity
 8	15099351	367	387	DiseaseOrPhenotypicFeature
@@ -86,6 +95,7 @@ id	abstract_id	offset_start	offset_finish	type
 8	15099351	829	836	OrganismTaxon
 8	15099351	906	926	DiseaseOrPhenotypicFeature
 8	15099351	1091	1111	DiseaseOrPhenotypicFeature
+9	15122708	15	23	DiseaseOrPhenotypicFeature
 9	15122708	102	103	ChemicalEntity
 9	15122708	125	135	DiseaseOrPhenotypicFeature
 9	15122708	249	255	GeneOrGeneProduct
@@ -102,10 +112,12 @@ id	abstract_id	offset_start	offset_finish	type
 9	15122708	1235	1237	DiseaseOrPhenotypicFeature
 9	15122708	1316	1318	DiseaseOrPhenotypicFeature
 9	15122708	1551	1561	DiseaseOrPhenotypicFeature
+10	15188772	99	110	ChemicalEntity
 10	15188772	143	157	DiseaseOrPhenotypicFeature
 10	15188772	371	376	OrganismTaxon
 10	15188772	436	447	ChemicalEntity
 10	15188772	677	685	DiseaseOrPhenotypicFeature
+11	15614572	43	47	ChemicalEntity
 11	15614572	78	86	ChemicalEntity
 11	15614572	110	114	OrganismTaxon
 11	15614572	167	171	ChemicalEntity
@@ -133,6 +145,7 @@ id	abstract_id	offset_start	offset_finish	type
 11	15614572	1870	1874	ChemicalEntity
 11	15614572	1942	1953	ChemicalEntity
 11	15614572	1954	1963	DiseaseOrPhenotypicFeature
+12	15623763	0	5	GeneOrGeneProduct
 12	15623763	80	88	OrganismTaxon
 12	15623763	128	133	GeneOrGeneProduct
 12	15623763	149	157	OrganismTaxon
@@ -151,6 +164,7 @@ id	abstract_id	offset_start	offset_finish	type
 12	15623763	1446	1453	OrganismTaxon
 12	15623763	1616	1623	ChemicalEntity
 12	15623763	1679	1687	OrganismTaxon
+13	15818664	61	67	SequenceVariant
 13	15818664	658	666	OrganismTaxon
 13	15818664	941	946	OrganismTaxon
 13	15818664	1047	1053	SequenceVariant
@@ -160,6 +174,7 @@ id	abstract_id	offset_start	offset_finish	type
 13	15818664	1491	1492	ChemicalEntity
 13	15818664	1871	1879	GeneOrGeneProduct
 13	15818664	1968	1974	SequenceVariant
+14	15824163	16	20	GeneOrGeneProduct
 14	15824163	26	34	DiseaseOrPhenotypicFeature
 14	15824163	83	87	GeneOrGeneProduct
 14	15824163	117	125	DiseaseOrPhenotypicFeature
@@ -181,6 +196,7 @@ id	abstract_id	offset_start	offset_finish	type
 14	15824163	1484	1488	GeneOrGeneProduct
 14	15824163	1539	1547	DiseaseOrPhenotypicFeature
 14	15824163	1702	1706	GeneOrGeneProduct
+15	15970799	144	148	CellLine
 15	15970799	153	159	CellLine
 15	15970799	620	627	OrganismTaxon
 15	15970799	653	661	DiseaseOrPhenotypicFeature
@@ -188,6 +204,7 @@ id	abstract_id	offset_start	offset_finish	type
 15	15970799	749	753	CellLine
 15	15970799	990	1002	ChemicalEntity
 15	15970799	1359	1371	ChemicalEntity
+16	16001362	22	39	DiseaseOrPhenotypicFeature
 16	16001362	274	291	DiseaseOrPhenotypicFeature
 16	16001362	534	551	DiseaseOrPhenotypicFeature
 16	16001362	609	641	DiseaseOrPhenotypicFeature
@@ -196,8 +213,10 @@ id	abstract_id	offset_start	offset_finish	type
 16	16001362	1413	1418	GeneOrGeneProduct
 16	16001362	1903	1908	OrganismTaxon
 16	16001362	2106	2112	OrganismTaxon
+17	16321363	238	243	ChemicalEntity
 17	16321363	282	289	ChemicalEntity
 17	16321363	457	464	OrganismTaxon
+18	16330669	157	165	DiseaseOrPhenotypicFeature
 18	16330669	268	276	DiseaseOrPhenotypicFeature
 18	16330669	287	295	OrganismTaxon
 18	16330669	335	343	OrganismTaxon
@@ -218,6 +237,7 @@ id	abstract_id	offset_start	offset_finish	type
 18	16330669	1658	1662	DiseaseOrPhenotypicFeature
 18	16330669	1684	1692	DiseaseOrPhenotypicFeature
 18	16330669	1915	1921	GeneOrGeneProduct
+19	16419642	41	67	GeneOrGeneProduct
 19	16419642	85	98	DiseaseOrPhenotypicFeature
 19	16419642	254	280	GeneOrGeneProduct
 19	16419642	282	284	DiseaseOrPhenotypicFeature
@@ -236,6 +256,7 @@ id	abstract_id	offset_start	offset_finish	type
 19	16419642	1561	1573	DiseaseOrPhenotypicFeature
 19	16419642	1683	1709	GeneOrGeneProduct
 19	16419642	1821	1823	DiseaseOrPhenotypicFeature
+20	16629641	29	35	DiseaseOrPhenotypicFeature
 20	16629641	39	47	OrganismTaxon
 20	16629641	62	79	OrganismTaxon
 20	16629641	89	98	DiseaseOrPhenotypicFeature
@@ -265,6 +286,7 @@ id	abstract_id	offset_start	offset_finish	type
 20	16629641	1303	1309	DiseaseOrPhenotypicFeature
 20	16629641	1313	1321	OrganismTaxon
 20	16629641	1327	1344	DiseaseOrPhenotypicFeature
+21	16731636	9	22	ChemicalEntity
 21	16731636	65	69	OrganismTaxon
 21	16731636	85	100	GeneOrGeneProduct
 21	16731636	168	173	GeneOrGeneProduct
@@ -286,7 +308,9 @@ id	abstract_id	offset_start	offset_finish	type
 21	16731636	1121	1125	OrganismTaxon
 21	16731636	1179	1183	OrganismTaxon
 21	16731636	1368	1375	GeneOrGeneProduct
+22	16737910	296	301	OrganismTaxon
 22	16737910	302	308	DiseaseOrPhenotypicFeature
+23	16755009	221	232	ChemicalEntity
 23	16755009	277	281	OrganismTaxon
 23	16755009	459	463	OrganismTaxon
 23	16755009	625	632	DiseaseOrPhenotypicFeature
@@ -302,12 +326,14 @@ id	abstract_id	offset_start	offset_finish	type
 23	16755009	1441	1445	OrganismTaxon
 23	16755009	1489	1500	ChemicalEntity
 23	16755009	1771	1782	ChemicalEntity
+24	16822828	27	35	OrganismTaxon
 24	16822828	266	285	DiseaseOrPhenotypicFeature
 24	16822828	342	350	OrganismTaxon
 24	16822828	403	411	OrganismTaxon
 24	16822828	422	430	OrganismTaxon
 24	16822828	708	716	OrganismTaxon
 24	16822828	1723	1731	OrganismTaxon
+25	16904497	37	44	ChemicalEntity
 25	16904497	173	180	ChemicalEntity
 25	16904497	428	439	ChemicalEntity
 25	16904497	474	479	OrganismTaxon
@@ -318,6 +344,7 @@ id	abstract_id	offset_start	offset_finish	type
 25	16904497	1275	1282	OrganismTaxon
 25	16904497	1538	1545	ChemicalEntity
 25	16904497	1656	1663	ChemicalEntity
+26	16970763	100	126	DiseaseOrPhenotypicFeature
 26	16970763	350	376	DiseaseOrPhenotypicFeature
 26	16970763	457	465	OrganismTaxon
 26	16970763	982	989	OrganismTaxon
@@ -325,6 +352,7 @@ id	abstract_id	offset_start	offset_finish	type
 26	16970763	1375	1383	DiseaseOrPhenotypicFeature
 26	16970763	1388	1406	DiseaseOrPhenotypicFeature
 26	16970763	1738	1744	ChemicalEntity
+27	17000021	33	36	SequenceVariant
 27	17000021	46	49	SequenceVariant
 27	17000021	81	87	GeneOrGeneProduct
 27	17000021	93	108	DiseaseOrPhenotypicFeature
@@ -338,6 +366,7 @@ id	abstract_id	offset_start	offset_finish	type
 27	17000021	712	718	GeneOrGeneProduct
 27	17000021	1550	1551	ChemicalEntity
 27	17000021	2099	2105	GeneOrGeneProduct
+28	17033974	26	33	ChemicalEntity
 28	17033974	86	100	DiseaseOrPhenotypicFeature
 28	17033974	183	190	ChemicalEntity
 28	17033974	328	333	OrganismTaxon
@@ -349,9 +378,11 @@ id	abstract_id	offset_start	offset_finish	type
 28	17033974	1013	1027	DiseaseOrPhenotypicFeature
 28	17033974	1092	1097	OrganismTaxon
 28	17033974	1175	1189	DiseaseOrPhenotypicFeature
+29	17273972	0	5	OrganismTaxon
 29	17273972	88	105	DiseaseOrPhenotypicFeature
 29	17273972	334	335	ChemicalEntity
 29	17273972	527	552	DiseaseOrPhenotypicFeature
+30	17286451	230	233	GeneOrGeneProduct
 30	17286451	278	284	DiseaseOrPhenotypicFeature
 30	17286451	288	296	OrganismTaxon
 30	17286451	344	347	GeneOrGeneProduct
@@ -373,6 +404,7 @@ id	abstract_id	offset_start	offset_finish	type
 30	17286451	1357	1362	DiseaseOrPhenotypicFeature
 30	17286451	1400	1403	GeneOrGeneProduct
 30	17286451	1578	1580	ChemicalEntity
+31	17318851	32	36	GeneOrGeneProduct
 31	17318851	100	105	OrganismTaxon
 31	17318851	335	339	GeneOrGeneProduct
 31	17318851	856	860	GeneOrGeneProduct
@@ -388,15 +420,18 @@ id	abstract_id	offset_start	offset_finish	type
 31	17318851	1488	1492	GeneOrGeneProduct
 31	17318851	1494	1495	ChemicalEntity
 31	17318851	1526	1527	ChemicalEntity
+32	17327131	116	121	OrganismTaxon
 32	17327131	122	137	GeneOrGeneProduct
 32	17327131	256	268	DiseaseOrPhenotypicFeature
 32	17327131	503	511	OrganismTaxon
 32	17327131	517	528	DiseaseOrPhenotypicFeature
 32	17327131	1743	1754	DiseaseOrPhenotypicFeature
+33	17384765	88	92	OrganismTaxon
 33	17384765	723	732	DiseaseOrPhenotypicFeature
 33	17384765	955	959	OrganismTaxon
 33	17384765	1185	1189	OrganismTaxon
 33	17384765	1481	1499	DiseaseOrPhenotypicFeature
+34	17391797	29	30	ChemicalEntity
 34	17391797	54	59	SequenceVariant
 34	17391797	357	358	ChemicalEntity
 34	17391797	378	382	GeneOrGeneProduct
@@ -414,6 +449,7 @@ id	abstract_id	offset_start	offset_finish	type
 34	17391797	1425	1433	OrganismTaxon
 34	17391797	1442	1447	DiseaseOrPhenotypicFeature
 34	17391797	1482	1486	GeneOrGeneProduct
+35	17495183	31	38	DiseaseOrPhenotypicFeature
 35	17495183	43	51	DiseaseOrPhenotypicFeature
 35	17495183	70	78	DiseaseOrPhenotypicFeature
 35	17495183	205	215	DiseaseOrPhenotypicFeature
@@ -435,6 +471,7 @@ id	abstract_id	offset_start	offset_finish	type
 35	17495183	1459	1466	ChemicalEntity
 35	17495183	1498	1501	DiseaseOrPhenotypicFeature
 35	17495183	1512	1515	OrganismTaxon
+36	17572393	81	84	OrganismTaxon
 36	17572393	94	98	ChemicalEntity
 36	17572393	298	301	OrganismTaxon
 36	17572393	396	400	ChemicalEntity
@@ -454,12 +491,15 @@ id	abstract_id	offset_start	offset_finish	type
 36	17572393	1696	1716	ChemicalEntity
 36	17572393	1793	1797	ChemicalEntity
 36	17572393	1928	1932	ChemicalEntity
+37	17935240	42	62	DiseaseOrPhenotypicFeature
 37	17935240	159	179	DiseaseOrPhenotypicFeature
 37	17935240	819	827	OrganismTaxon
 37	17935240	1276	1281	OrganismTaxon
+38	17962394	173	187	DiseaseOrPhenotypicFeature
 38	17962394	553	563	SequenceVariant
 38	17962394	571	588	GeneOrGeneProduct
 38	17962394	828	835	ChemicalEntity
+39	18235024	267	270	GeneOrGeneProduct
 39	18235024	490	498	OrganismTaxon
 39	18235024	558	566	OrganismTaxon
 39	18235024	1049	1057	OrganismTaxon
@@ -467,6 +507,7 @@ id	abstract_id	offset_start	offset_finish	type
 39	18235024	1555	1563	OrganismTaxon
 39	18235024	1628	1636	OrganismTaxon
 39	18235024	1688	1702	DiseaseOrPhenotypicFeature
+40	18408250	40	44	GeneOrGeneProduct
 40	18408250	98	118	DiseaseOrPhenotypicFeature
 40	18408250	191	195	GeneOrGeneProduct
 40	18408250	286	301	DiseaseOrPhenotypicFeature
@@ -496,12 +537,14 @@ id	abstract_id	offset_start	offset_finish	type
 40	18408250	1813	1815	DiseaseOrPhenotypicFeature
 40	18408250	1881	1889	OrganismTaxon
 40	18408250	1900	1902	DiseaseOrPhenotypicFeature
+41	18487244	59	67	OrganismTaxon
 41	18487244	316	331	DiseaseOrPhenotypicFeature
 41	18487244	541	549	OrganismTaxon
 41	18487244	702	710	OrganismTaxon
 41	18487244	805	813	OrganismTaxon
 41	18487244	957	965	OrganismTaxon
 41	18487244	1328	1335	OrganismTaxon
+42	18631865	24	35	DiseaseOrPhenotypicFeature
 42	18631865	153	164	GeneOrGeneProduct
 42	18631865	179	208	GeneOrGeneProduct
 42	18631865	304	315	DiseaseOrPhenotypicFeature
@@ -513,6 +556,7 @@ id	abstract_id	offset_start	offset_finish	type
 42	18631865	764	782	DiseaseOrPhenotypicFeature
 42	18631865	828	836	OrganismTaxon
 42	18631865	987	998	DiseaseOrPhenotypicFeature
+43	18768591	11	25	ChemicalEntity
 43	18768591	48	59	ChemicalEntity
 43	18768591	68	86	DiseaseOrPhenotypicFeature
 43	18768591	88	99	ChemicalEntity
@@ -549,6 +593,7 @@ id	abstract_id	offset_start	offset_finish	type
 43	18768591	1641	1645	OrganismTaxon
 43	18768591	1723	1737	DiseaseOrPhenotypicFeature
 43	18768591	1758	1776	DiseaseOrPhenotypicFeature
+44	18991055	52	58	GeneOrGeneProduct
 44	18991055	76	80	GeneOrGeneProduct
 44	18991055	100	115	DiseaseOrPhenotypicFeature
 44	18991055	281	305	DiseaseOrPhenotypicFeature
@@ -568,6 +613,7 @@ id	abstract_id	offset_start	offset_finish	type
 44	18991055	1429	1433	GeneOrGeneProduct
 44	18991055	1503	1509	GeneOrGeneProduct
 44	18991055	1556	1560	DiseaseOrPhenotypicFeature
+45	19058010	24	33	ChemicalEntity
 45	19058010	49	62	ChemicalEntity
 45	19058010	71	92	DiseaseOrPhenotypicFeature
 45	19058010	96	100	OrganismTaxon
@@ -593,6 +639,7 @@ id	abstract_id	offset_start	offset_finish	type
 45	19058010	1263	1272	ChemicalEntity
 45	19058010	1292	1313	DiseaseOrPhenotypicFeature
 45	19058010	1317	1321	OrganismTaxon
+46	19218574	89	94	OrganismTaxon
 46	19218574	139	146	GeneOrGeneProduct
 46	19218574	284	291	GeneOrGeneProduct
 46	19218574	334	341	ChemicalEntity
@@ -604,6 +651,7 @@ id	abstract_id	offset_start	offset_finish	type
 46	19218574	1625	1626	ChemicalEntity
 46	19218574	1841	1853	ChemicalEntity
 46	19218574	1862	1870	OrganismTaxon
+47	19353688	716	724	DiseaseOrPhenotypicFeature
 47	19353688	763	775	DiseaseOrPhenotypicFeature
 47	19353688	891	899	DiseaseOrPhenotypicFeature
 47	19353688	1025	1033	DiseaseOrPhenotypicFeature
@@ -611,6 +659,7 @@ id	abstract_id	offset_start	offset_finish	type
 47	19353688	1366	1374	DiseaseOrPhenotypicFeature
 47	19353688	1413	1421	DiseaseOrPhenotypicFeature
 47	19353688	1462	1470	DiseaseOrPhenotypicFeature
+48	19521089	0	9	ChemicalEntity
 48	19521089	47	55	GeneOrGeneProduct
 48	19521089	87	106	DiseaseOrPhenotypicFeature
 48	19521089	117	136	DiseaseOrPhenotypicFeature
@@ -626,6 +675,7 @@ id	abstract_id	offset_start	offset_finish	type
 48	19521089	845	847	DiseaseOrPhenotypicFeature
 48	19521089	876	884	GeneOrGeneProduct
 48	19521089	963	965	DiseaseOrPhenotypicFeature
+49	19592582	26	30	ChemicalEntity
 49	19592582	42	46	ChemicalEntity
 49	19592582	58	64	DiseaseOrPhenotypicFeature
 49	19592582	65	73	OrganismTaxon
@@ -637,6 +687,7 @@ id	abstract_id	offset_start	offset_finish	type
 49	19592582	735	736	ChemicalEntity
 49	19592582	972	980	GeneOrGeneProduct
 49	19592582	1402	1406	ChemicalEntity
+50	19642243	6	19	DiseaseOrPhenotypicFeature
 50	19642243	23	31	OrganismTaxon
 50	19642243	37	41	DiseaseOrPhenotypicFeature
 50	19642243	45	54	ChemicalEntity
@@ -649,6 +700,7 @@ id	abstract_id	offset_start	offset_finish	type
 50	19642243	571	580	ChemicalEntity
 50	19642243	603	616	DiseaseOrPhenotypicFeature
 50	19642243	652	662	ChemicalEntity
+51	19696792	85	101	DiseaseOrPhenotypicFeature
 51	19696792	190	202	DiseaseOrPhenotypicFeature
 51	19696792	221	231	DiseaseOrPhenotypicFeature
 51	19696792	247	263	DiseaseOrPhenotypicFeature
@@ -661,6 +713,7 @@ id	abstract_id	offset_start	offset_finish	type
 51	19696792	744	760	DiseaseOrPhenotypicFeature
 51	19696792	998	1014	DiseaseOrPhenotypicFeature
 51	19696792	1312	1328	DiseaseOrPhenotypicFeature
+52	19728177	82	94	DiseaseOrPhenotypicFeature
 52	19728177	196	204	OrganismTaxon
 52	19728177	465	478	ChemicalEntity
 52	19728177	522	529	OrganismTaxon
@@ -675,6 +728,7 @@ id	abstract_id	offset_start	offset_finish	type
 52	19728177	1264	1272	OrganismTaxon
 52	19728177	1306	1319	ChemicalEntity
 52	19728177	1501	1509	OrganismTaxon
+53	19811499	37	64	GeneOrGeneProduct
 53	19811499	66	87	GeneOrGeneProduct
 53	19811499	139	149	DiseaseOrPhenotypicFeature
 53	19811499	170	185	DiseaseOrPhenotypicFeature
@@ -704,6 +758,7 @@ id	abstract_id	offset_start	offset_finish	type
 53	19811499	1761	1765	GeneOrGeneProduct
 53	19811499	1875	1884	GeneOrGeneProduct
 53	19811499	2082	2084	DiseaseOrPhenotypicFeature
+54	19918264	0	5	GeneOrGeneProduct
 54	19918264	33	48	DiseaseOrPhenotypicFeature
 54	19918264	66	69	OrganismTaxon
 54	19918264	108	113	GeneOrGeneProduct
@@ -726,6 +781,7 @@ id	abstract_id	offset_start	offset_finish	type
 54	19918264	1194	1199	GeneOrGeneProduct
 54	19918264	1241	1256	DiseaseOrPhenotypicFeature
 54	19918264	1269	1272	OrganismTaxon
+55	19923525	20	37	DiseaseOrPhenotypicFeature
 55	19923525	70	81	DiseaseOrPhenotypicFeature
 55	19923525	91	95	OrganismTaxon
 55	19923525	212	233	DiseaseOrPhenotypicFeature
@@ -743,6 +799,7 @@ id	abstract_id	offset_start	offset_finish	type
 55	19923525	2544	2555	DiseaseOrPhenotypicFeature
 55	19923525	2635	2642	ChemicalEntity
 55	19923525	2662	2673	DiseaseOrPhenotypicFeature
+56	20105280	10	13	GeneOrGeneProduct
 56	20105280	122	125	GeneOrGeneProduct
 56	20105280	242	247	OrganismTaxon
 56	20105280	248	255	DiseaseOrPhenotypicFeature
@@ -764,6 +821,7 @@ id	abstract_id	offset_start	offset_finish	type
 56	20105280	1701	1704	GeneOrGeneProduct
 56	20105280	2015	2018	GeneOrGeneProduct
 56	20105280	2093	2096	GeneOrGeneProduct
+57	20195852	8	19	DiseaseOrPhenotypicFeature
 57	20195852	192	203	DiseaseOrPhenotypicFeature
 57	20195852	205	208	DiseaseOrPhenotypicFeature
 57	20195852	232	240	OrganismTaxon
@@ -791,6 +849,7 @@ id	abstract_id	offset_start	offset_finish	type
 57	20195852	1895	1903	OrganismTaxon
 57	20195852	1945	1948	DiseaseOrPhenotypicFeature
 57	20195852	2099	2102	DiseaseOrPhenotypicFeature
+58	20520283	51	62	ChemicalEntity
 58	20520283	83	91	OrganismTaxon
 58	20520283	119	132	DiseaseOrPhenotypicFeature
 58	20520283	226	239	DiseaseOrPhenotypicFeature
@@ -807,6 +866,7 @@ id	abstract_id	offset_start	offset_finish	type
 58	20520283	1700	1708	OrganismTaxon
 58	20520283	1824	1835	ChemicalEntity
 58	20520283	1884	1907	DiseaseOrPhenotypicFeature
+59	20528871	33	42	ChemicalEntity
 59	20528871	48	64	ChemicalEntity
 59	20528871	99	100	ChemicalEntity
 59	20528871	120	129	DiseaseOrPhenotypicFeature
@@ -822,6 +882,7 @@ id	abstract_id	offset_start	offset_finish	type
 59	20528871	927	936	ChemicalEntity
 59	20528871	941	957	ChemicalEntity
 59	20528871	981	989	DiseaseOrPhenotypicFeature
+60	20648600	18	28	ChemicalEntity
 60	20648600	63	71	OrganismTaxon
 60	20648600	89	92	OrganismTaxon
 60	20648600	173	183	ChemicalEntity
@@ -856,6 +917,7 @@ id	abstract_id	offset_start	offset_finish	type
 60	20648600	1385	1392	GeneOrGeneProduct
 60	20648600	1520	1523	ChemicalEntity
 60	20648600	1590	1593	OrganismTaxon
+61	20683499	102	121	DiseaseOrPhenotypicFeature
 61	20683499	130	134	OrganismTaxon
 61	20683499	374	393	DiseaseOrPhenotypicFeature
 61	20683499	449	452	ChemicalEntity
@@ -878,13 +940,16 @@ id	abstract_id	offset_start	offset_finish	type
 61	20683499	1647	1650	ChemicalEntity
 61	20683499	1658	1662	OrganismTaxon
 61	20683499	1736	1755	DiseaseOrPhenotypicFeature
+62	20806042	44	52	DiseaseOrPhenotypicFeature
 62	20806042	133	147	DiseaseOrPhenotypicFeature
 62	20806042	229	237	DiseaseOrPhenotypicFeature
 62	20806042	1186	1194	DiseaseOrPhenotypicFeature
+63	21496008	138	143	OrganismTaxon
 63	21496008	193	206	DiseaseOrPhenotypicFeature
 63	21496008	324	335	ChemicalEntity
 63	21496008	1155	1156	ChemicalEntity
 63	21496008	1250	1258	OrganismTaxon
+64	21699520	110	115	OrganismTaxon
 64	21699520	127	137	DiseaseOrPhenotypicFeature
 64	21699520	162	172	DiseaseOrPhenotypicFeature
 64	21699520	202	207	OrganismTaxon
@@ -896,6 +961,7 @@ id	abstract_id	offset_start	offset_finish	type
 64	21699520	1226	1233	OrganismTaxon
 64	21699520	1379	1384	DiseaseOrPhenotypicFeature
 64	21699520	1413	1414	ChemicalEntity
+65	21799811	28	29	ChemicalEntity
 65	21799811	71	82	DiseaseOrPhenotypicFeature
 65	21799811	219	225	ChemicalEntity
 65	21799811	365	366	ChemicalEntity
@@ -907,6 +973,7 @@ id	abstract_id	offset_start	offset_finish	type
 65	21799811	1713	1714	ChemicalEntity
 65	21799811	1758	1769	DiseaseOrPhenotypicFeature
 65	21799811	1874	1885	DiseaseOrPhenotypicFeature
+66	21810259	0	5	OrganismTaxon
 66	21810259	51	57	OrganismTaxon
 66	21810259	102	105	GeneOrGeneProduct
 66	21810259	106	138	GeneOrGeneProduct
@@ -937,6 +1004,7 @@ id	abstract_id	offset_start	offset_finish	type
 66	21810259	2059	2069	DiseaseOrPhenotypicFeature
 66	21810259	2083	2097	DiseaseOrPhenotypicFeature
 66	21810259	2098	2106	OrganismTaxon
+67	21911891	92	97	DiseaseOrPhenotypicFeature
 67	21911891	107	115	OrganismTaxon
 67	21911891	121	154	DiseaseOrPhenotypicFeature
 67	21911891	212	217	GeneOrGeneProduct
@@ -981,11 +1049,13 @@ id	abstract_id	offset_start	offset_finish	type
 67	21911891	2012	2026	DiseaseOrPhenotypicFeature
 67	21911891	2030	2035	DiseaseOrPhenotypicFeature
 67	21911891	2036	2044	OrganismTaxon
+68	22048266	79	92	DiseaseOrPhenotypicFeature
 68	22048266	182	195	DiseaseOrPhenotypicFeature
 68	22048266	957	958	ChemicalEntity
 68	22048266	994	995	ChemicalEntity
 68	22048266	1139	1140	ChemicalEntity
 68	22048266	1283	1290	ChemicalEntity
+69	22180037	28	39	ChemicalEntity
 69	22180037	63	68	GeneOrGeneProduct
 69	22180037	92	107	DiseaseOrPhenotypicFeature
 69	22180037	166	171	GeneOrGeneProduct
@@ -1011,6 +1081,7 @@ id	abstract_id	offset_start	offset_finish	type
 69	22180037	1261	1266	GeneOrGeneProduct
 69	22180037	1267	1274	SequenceVariant
 69	22180037	1315	1330	DiseaseOrPhenotypicFeature
+70	22369755	30	37	GeneOrGeneProduct
 70	22369755	126	139	ChemicalEntity
 70	22369755	215	222	OrganismTaxon
 70	22369755	301	313	DiseaseOrPhenotypicFeature
@@ -1033,6 +1104,7 @@ id	abstract_id	offset_start	offset_finish	type
 70	22369755	1610	1615	GeneOrGeneProduct
 70	22369755	1693	1700	GeneOrGeneProduct
 70	22369755	1774	1785	DiseaseOrPhenotypicFeature
+71	22729903	61	89	DiseaseOrPhenotypicFeature
 71	22729903	188	216	DiseaseOrPhenotypicFeature
 71	22729903	218	221	DiseaseOrPhenotypicFeature
 71	22729903	333	336	DiseaseOrPhenotypicFeature
@@ -1047,6 +1119,7 @@ id	abstract_id	offset_start	offset_finish	type
 71	22729903	1052	1055	DiseaseOrPhenotypicFeature
 71	22729903	1056	1064	OrganismTaxon
 71	22729903	1509	1512	DiseaseOrPhenotypicFeature
+72	23872883	66	80	DiseaseOrPhenotypicFeature
 72	23872883	307	320	ChemicalEntity
 72	23872883	329	343	DiseaseOrPhenotypicFeature
 72	23872883	347	351	OrganismTaxon
@@ -1071,6 +1144,7 @@ id	abstract_id	offset_start	offset_finish	type
 72	23872883	1388	1399	ChemicalEntity
 72	23872883	1410	1423	ChemicalEntity
 72	23872883	1432	1436	OrganismTaxon
+73	24114426	83	116	ChemicalEntity
 73	24114426	118	122	ChemicalEntity
 73	24114426	124	131	ChemicalEntity
 73	24114426	145	152	ChemicalEntity
@@ -1096,6 +1170,7 @@ id	abstract_id	offset_start	offset_finish	type
 73	24114426	1481	1488	ChemicalEntity
 73	24114426	1709	1719	DiseaseOrPhenotypicFeature
 73	24114426	1803	1810	ChemicalEntity
+74	24126708	59	67	ChemicalEntity
 74	24126708	87	106	DiseaseOrPhenotypicFeature
 74	24126708	107	115	OrganismTaxon
 74	24126708	117	125	ChemicalEntity
@@ -1108,6 +1183,7 @@ id	abstract_id	offset_start	offset_finish	type
 74	24126708	700	708	OrganismTaxon
 74	24126708	875	885	DiseaseOrPhenotypicFeature
 74	24126708	1127	1135	ChemicalEntity
+75	24132704	16	21	ChemicalEntity
 75	24132704	74	80	GeneOrGeneProduct
 75	24132704	92	95	OrganismTaxon
 75	24132704	268	273	ChemicalEntity
@@ -1128,6 +1204,7 @@ id	abstract_id	offset_start	offset_finish	type
 75	24132704	1478	1484	GeneOrGeneProduct
 75	24132704	1559	1562	GeneOrGeneProduct
 75	24132704	1770	1773	GeneOrGeneProduct
+76	24535067	62	70	ChemicalEntity
 76	24535067	230	238	ChemicalEntity
 76	24535067	272	280	ChemicalEntity
 76	24535067	509	517	OrganismTaxon
@@ -1137,6 +1214,7 @@ id	abstract_id	offset_start	offset_finish	type
 76	24535067	1101	1105	DiseaseOrPhenotypicFeature
 76	24535067	1454	1462	ChemicalEntity
 76	24535067	1481	1489	ChemicalEntity
+77	24739405	37	48	ChemicalEntity
 77	24739405	57	70	DiseaseOrPhenotypicFeature
 77	24739405	81	85	OrganismTaxon
 77	24739405	174	187	DiseaseOrPhenotypicFeature
@@ -1157,6 +1235,7 @@ id	abstract_id	offset_start	offset_finish	type
 77	24739405	1532	1541	DiseaseOrPhenotypicFeature
 77	24739405	1640	1651	ChemicalEntity
 77	24739405	1702	1715	DiseaseOrPhenotypicFeature
+78	24768818	52	60	GeneOrGeneProduct
 78	24768818	293	301	GeneOrGeneProduct
 78	24768818	386	391	OrganismTaxon
 78	24768818	412	420	DiseaseOrPhenotypicFeature
@@ -1169,6 +1248,7 @@ id	abstract_id	offset_start	offset_finish	type
 78	24768818	1153	1156	ChemicalEntity
 78	24768818	1283	1284	ChemicalEntity
 78	24768818	1500	1511	DiseaseOrPhenotypicFeature
+79	24853300	54	73	DiseaseOrPhenotypicFeature
 79	24853300	74	79	OrganismTaxon
 79	24853300	125	132	ChemicalEntity
 79	24853300	201	215	DiseaseOrPhenotypicFeature
@@ -1196,6 +1276,7 @@ id	abstract_id	offset_start	offset_finish	type
 79	24853300	1593	1597	OrganismTaxon
 79	24853300	1609	1611	DiseaseOrPhenotypicFeature
 79	24853300	1668	1670	DiseaseOrPhenotypicFeature
+80	25080425	14	64	GeneOrGeneProduct
 80	25080425	110	123	ChemicalEntity
 80	25080425	138	155	DiseaseOrPhenotypicFeature
 80	25080425	159	163	OrganismTaxon
@@ -1217,6 +1298,7 @@ id	abstract_id	offset_start	offset_finish	type
 80	25080425	1497	1510	ChemicalEntity
 80	25080425	1525	1544	DiseaseOrPhenotypicFeature
 80	25080425	1567	1572	GeneOrGeneProduct
+81	25305591	73	77	OrganismTaxon
 81	25305591	227	230	GeneOrGeneProduct
 81	25305591	483	495	DiseaseOrPhenotypicFeature
 81	25305591	542	562	DiseaseOrPhenotypicFeature
@@ -1235,6 +1317,7 @@ id	abstract_id	offset_start	offset_finish	type
 81	25305591	1291	1295	GeneOrGeneProduct
 81	25305591	1480	1484	OrganismTaxon
 81	25305591	1591	1595	OrganismTaxon
+82	25983002	30	35	DiseaseOrPhenotypicFeature
 82	25983002	51	66	DiseaseOrPhenotypicFeature
 82	25983002	86	92	DiseaseOrPhenotypicFeature
 82	25983002	274	279	DiseaseOrPhenotypicFeature
@@ -1246,6 +1329,7 @@ id	abstract_id	offset_start	offset_finish	type
 82	25983002	888	893	GeneOrGeneProduct
 82	25983002	905	916	GeneOrGeneProduct
 82	25983002	1057	1072	DiseaseOrPhenotypicFeature
+83	25986755	78	96	DiseaseOrPhenotypicFeature
 83	25986755	136	144	ChemicalEntity
 83	25986755	214	222	ChemicalEntity
 83	25986755	264	282	DiseaseOrPhenotypicFeature
@@ -1262,6 +1346,7 @@ id	abstract_id	offset_start	offset_finish	type
 83	25986755	1491	1498	GeneOrGeneProduct
 83	25986755	1859	1877	DiseaseOrPhenotypicFeature
 83	25986755	1995	2013	DiseaseOrPhenotypicFeature
+84	26027517	420	429	GeneOrGeneProduct
 84	26027517	476	479	GeneOrGeneProduct
 84	26027517	572	575	GeneOrGeneProduct
 84	26027517	990	994	GeneOrGeneProduct
@@ -1269,12 +1354,14 @@ id	abstract_id	offset_start	offset_finish	type
 84	26027517	1449	1453	OrganismTaxon
 84	26027517	1469	1473	OrganismTaxon
 84	26027517	1635	1643	GeneOrGeneProduct
+85	26110643	68	77	OrganismTaxon
 85	26110643	419	428	OrganismTaxon
 85	26110643	555	566	OrganismTaxon
 85	26110643	568	577	OrganismTaxon
 85	26110643	1096	1099	GeneOrGeneProduct
 85	26110643	1342	1346	GeneOrGeneProduct
 85	26110643	1721	1726	DiseaseOrPhenotypicFeature
+86	26516699	46	63	DiseaseOrPhenotypicFeature
 86	26516699	138	143	OrganismTaxon
 86	26516699	235	242	DiseaseOrPhenotypicFeature
 86	26516699	254	271	DiseaseOrPhenotypicFeature
@@ -1292,9 +1379,11 @@ id	abstract_id	offset_start	offset_finish	type
 86	26516699	1461	1463	DiseaseOrPhenotypicFeature
 86	26516699	1588	1592	GeneOrGeneProduct
 86	26516699	1700	1702	GeneOrGeneProduct
+87	26731607	447	452	DiseaseOrPhenotypicFeature
 87	26731607	779	785	OrganismTaxon
 87	26731607	1625	1628	GeneOrGeneProduct
 87	26731607	1663	1667	GeneOrGeneProduct
+88	27134166	96	100	GeneOrGeneProduct
 88	27134166	137	142	DiseaseOrPhenotypicFeature
 88	27134166	161	165	GeneOrGeneProduct
 88	27134166	237	242	OrganismTaxon
@@ -1323,6 +1412,7 @@ id	abstract_id	offset_start	offset_finish	type
 88	27134166	1109	1113	GeneOrGeneProduct
 88	27134166	1206	1213	ChemicalEntity
 88	27134166	1226	1231	GeneOrGeneProduct
+89	27248656	67	78	DiseaseOrPhenotypicFeature
 89	27248656	198	205	DiseaseOrPhenotypicFeature
 89	27248656	332	344	DiseaseOrPhenotypicFeature
 89	27248656	355	359	OrganismTaxon
@@ -1348,6 +1438,7 @@ id	abstract_id	offset_start	offset_finish	type
 89	27248656	1795	1799	OrganismTaxon
 89	27248656	1950	1961	DiseaseOrPhenotypicFeature
 89	27248656	1977	1984	DiseaseOrPhenotypicFeature
+90	27384305	23	27	OrganismTaxon
 90	27384305	148	159	DiseaseOrPhenotypicFeature
 90	27384305	169	174	DiseaseOrPhenotypicFeature
 90	27384305	221	230	DiseaseOrPhenotypicFeature
@@ -1368,6 +1459,7 @@ id	abstract_id	offset_start	offset_finish	type
 90	27384305	1669	1673	OrganismTaxon
 90	27384305	1751	1756	DiseaseOrPhenotypicFeature
 90	27384305	1835	1855	DiseaseOrPhenotypicFeature
+91	27640183	33	47	GeneOrGeneProduct
 91	27640183	92	97	OrganismTaxon
 91	27640183	229	233	OrganismTaxon
 91	27640183	284	290	OrganismTaxon
@@ -1381,6 +1473,7 @@ id	abstract_id	offset_start	offset_finish	type
 91	27640183	1089	1093	GeneOrGeneProduct
 91	27640183	1099	1102	DiseaseOrPhenotypicFeature
 91	27640183	1397	1403	OrganismTaxon
+92	27825100	5	12	ChemicalEntity
 92	27825100	24	29	OrganismTaxon
 92	27825100	84	92	DiseaseOrPhenotypicFeature
 92	27825100	93	104	DiseaseOrPhenotypicFeature
@@ -1406,6 +1499,7 @@ id	abstract_id	offset_start	offset_finish	type
 92	27825100	2063	2068	OrganismTaxon
 92	27825100	2123	2131	DiseaseOrPhenotypicFeature
 92	27825100	2132	2143	DiseaseOrPhenotypicFeature
+93	28098423	45	56	ChemicalEntity
 93	28098423	65	84	DiseaseOrPhenotypicFeature
 93	28098423	104	107	GeneOrGeneProduct
 93	28098423	122	126	OrganismTaxon
@@ -1425,6 +1519,7 @@ id	abstract_id	offset_start	offset_finish	type
 93	28098423	1616	1630	DiseaseOrPhenotypicFeature
 93	28098423	1645	1648	GeneOrGeneProduct
 93	28098423	1705	1711	DiseaseOrPhenotypicFeature
+94	28279980	0	5	GeneOrGeneProduct
 94	28279980	44	51	ChemicalEntity
 94	28279980	85	90	OrganismTaxon
 94	28279980	108	113	GeneOrGeneProduct
@@ -1448,9 +1543,11 @@ id	abstract_id	offset_start	offset_finish	type
 94	28279980	1524	1531	ChemicalEntity
 94	28279980	1586	1591	GeneOrGeneProduct
 94	28279980	1639	1646	ChemicalEntity
+95	28348168	287	293	DiseaseOrPhenotypicFeature
 95	28348168	430	435	OrganismTaxon
 95	28348168	662	666	GeneOrGeneProduct
 95	28348168	863	869	DiseaseOrPhenotypicFeature
+96	28481876	70	75	OrganismTaxon
 96	28481876	76	88	DiseaseOrPhenotypicFeature
 96	28481876	384	389	OrganismTaxon
 96	28481876	390	402	DiseaseOrPhenotypicFeature
@@ -1467,12 +1564,14 @@ id	abstract_id	offset_start	offset_finish	type
 96	28481876	1143	1149	DiseaseOrPhenotypicFeature
 96	28481876	1267	1272	OrganismTaxon
 96	28481876	1273	1279	DiseaseOrPhenotypicFeature
+97	28687665	348	361	DiseaseOrPhenotypicFeature
 97	28687665	365	371	OrganismTaxon
 97	28687665	460	464	OrganismTaxon
 97	28687665	807	808	ChemicalEntity
 97	28687665	1069	1082	DiseaseOrPhenotypicFeature
 97	28687665	1267	1269	ChemicalEntity
 97	28687665	1285	1286	ChemicalEntity
+98	29045486	30	37	DiseaseOrPhenotypicFeature
 98	29045486	99	104	OrganismTaxon
 98	29045486	363	370	ChemicalEntity
 98	29045486	445	457	DiseaseOrPhenotypicFeature
@@ -1491,6 +1590,7 @@ id	abstract_id	offset_start	offset_finish	type
 98	29045486	1577	1582	DiseaseOrPhenotypicFeature
 98	29045486	1697	1709	DiseaseOrPhenotypicFeature
 98	29045486	1750	1755	DiseaseOrPhenotypicFeature
+99	30442153	0	4	ChemicalEntity
 99	30442153	124	127	GeneOrGeneProduct
 99	30442153	128	132	GeneOrGeneProduct
 99	30442153	185	189	ChemicalEntity
